@@ -36,4 +36,5 @@ if (xp < 1000) {
     nivel = "Radiante"
 }
 
+//Saida do Codigo
 console.log("O Herói "+ nickname +" está no nível "+ nivel+".")
